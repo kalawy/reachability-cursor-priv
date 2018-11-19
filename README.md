@@ -1,4 +1,5 @@
-Privileged Mode:
+Privileged Mode
+:
 
 Activating an accessibility service with the permission to perform gestures changes how the Android system processes touchscreen
 inputs. This doesn't affect the overall performance of your device
@@ -15,3 +16,7 @@ this is a statement from the official app
 that forces you to use adb with a computer 
 
 this module adds the application as priv-app in system whith this permission enabled by default 
+ 
+ credits: 
+ kalawy@xda for the module 
+ NiftyUi@xda for the app
