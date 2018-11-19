@@ -1,0 +1,7 @@
+id=reachabilitypriv
+name=Reachability Cursor Priviliged
+version=v1.1.2
+versionCode=1
+author=kalawy
+description=Reachability Cursor Priviliged mode without adb shell by using priv-app permissions
+minMagisk=17000
